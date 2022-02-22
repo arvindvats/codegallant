@@ -5,7 +5,7 @@ var body = document.getElementById("gradient");
 var switchColor = document.getElementById("switchColor");
 var temp;
 color1.value = "#00ffcc";
-color2.value = "#a660fb";
+color2.value = "#7E14FF";
 
 // linear-gradient(to right, rgb(235, 255, 255), rgb(60, 144, 144)) // - default
 
